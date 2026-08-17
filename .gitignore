@@ -1,0 +1,18 @@
+# Compiled binaries and object files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+a.out
+
+# Build folders
+build/
+bin/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
